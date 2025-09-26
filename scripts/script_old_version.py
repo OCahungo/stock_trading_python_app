@@ -8,7 +8,7 @@ API_KEY = os.getenv("POLYGON_API_KEY")
 
 print(f"API Key: {API_KEY}")
 
-limit = 10
+limit = 100
 
 import time
 
